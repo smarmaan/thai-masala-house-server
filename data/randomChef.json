@@ -14,5 +14,21 @@
     "yearsOfExperience": 15,
     "numberOfRecipes": 80,
     "likes": 8000
+  },
+  {
+    "id": "3",
+    "name": "Duangporn Songvisava and Dylan Jones",
+    "picture": "https://www.earnmydegree.com/sites/all/files/public/images/shutterstock_187759205.jpg",
+    "yearsOfExperience": 15,
+    "numberOfRecipes": 80,
+    "likes": 8000
+  },
+  {
+    "id": "4",
+    "name": "Duangporn Songvisava and Dylan Jones",
+    "picture": "https://www.earnmydegree.com/sites/all/files/public/images/shutterstock_187759205.jpg",
+    "yearsOfExperience": 15,
+    "numberOfRecipes": 80,
+    "likes": 8000
   }
 ]
