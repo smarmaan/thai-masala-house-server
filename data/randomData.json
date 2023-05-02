@@ -1,0 +1,112 @@
+[
+  {
+    "name": "David Thompson",
+    "recipes": [
+      "Tom Yum Goong",
+      "Green Curry",
+      "Massaman Curry",
+      "Laab Moo",
+      "Som Tum"
+    ]
+  },
+  {
+    "name": "Duangporn Songvisava and Dylan Jones (Bo.lan)",
+    "recipes": [
+      "Gaeng Hung Lay",
+      "Pla Kapong Neung Manao",
+      "Phat Phrik Khing Moo",
+      "Khao Soi",
+      "Gaeng Kiew Wan Gai"
+    ]
+  },
+  {
+    "name": "Ian Kittichai",
+    "recipes": [
+      "Tom Kha Gai",
+      "Pad Thai",
+      "Gaeng Ped Yang",
+      "Pla Sam Rod",
+      "Massaman Curry"
+    ]
+  },
+  {
+    "name": "Nooror Somany-Steppe (Blue Elephant)",
+    "recipes": [
+      "Goong Sarong",
+      "Gaeng Panang Gai",
+      "Kaeng Khiao Wan Gai",
+      "Yam Neua",
+      "Pad Thai"
+    ]
+  },
+  {
+    "name": "Chef McDang",
+    "recipes": [
+      "Pad Thai",
+      "Gaeng Kiew Wan",
+      "Gaeng Ped",
+      "Tom Yum",
+      "Khao Niew Mamuang"
+    ]
+  },
+  {
+    "name": "Saree Apong (Chote Chitr)",
+    "recipes": [
+      "Pad Thai",
+      "Gaeng Matsaman",
+      "Kai Jiew Moo Saap",
+      "Yam Som O",
+      "Tom Kha Gai"
+    ]
+  },
+  {
+    "name": "Sujet Saenkham (Chim by Siam Wisdom)",
+    "recipes": [
+      "Massaman Curry",
+      "Khao Soi",
+      "Pla Pao",
+      "Kao Yum",
+      "Tom Kha Gai"
+    ]
+  },
+  {
+    "name": "Thitid Tassanakajohn (Le Du)",
+    "recipes": [
+      "Pla Haeng Tangmo",
+      "Kao Soi Gai",
+      "Moo Grob",
+      "Gaeng Gari Gai",
+      "Tom Kha Gai"
+    ]
+  },
+  {
+    "name": "Thanyaphong Pibulsonggram (Karmakamet Conveyance)",
+    "recipes": [
+      "Pad Thai",
+      "Kua Kling",
+      "Gaeng Kiew Wan Gai",
+      "Massaman Curry",
+      "Tom Yum Goong"
+    ]
+  },
+  {
+    "name": "Vichit Mukura (La Rueda)",
+    "recipes": [
+      "Tom Yum Goong",
+      "Pad Thai",
+      "Gaeng Massaman",
+      "Pla Rad Prik",
+      "Phat Kaphrao"
+    ]
+  },
+  {
+    "name": "Bo Songvisava (Bo.lan)",
+    "recipes": [
+      "Gaeng Gari Gai",
+      "Khao Soi",
+      "Som Tum",
+      "Moo Tod Kamin",
+      "Pla Pao"
+    ]
+  }
+]
