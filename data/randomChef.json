@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1",
+    "name": "David Thompson",
+    "picture": "https://www.earnmydegree.com/sites/all/files/public/images/shutterstock_187759205.jpg",
+    "yearsOfExperience": 30,
+    "numberOfRecipes": 150,
+    "likes": 12000
+  },
+  {
+    "id": "2",
+    "name": "Duangporn Songvisava and Dylan Jones",
+    "picture": "https://www.earnmydegree.com/sites/all/files/public/images/shutterstock_187759205.jpg",
+    "yearsOfExperience": 15,
+    "numberOfRecipes": 80,
+    "likes": 8000
+  }
+]
