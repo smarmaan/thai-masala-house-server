@@ -19,7 +19,7 @@
     ]
   },
   {
-    "id": "dfgdxe454gfg",
+    "id": "dfgdxe454g45534564fhsthfg",
     "chef_id": "2",
     "recipe_name": "Tom Yum Soup",
     "preparation": "1. In a pot, bring chicken broth to a boil. \n2. Add lemongrass, kaffir lime leaves, galangal, and chili. Simmer for 5 minutes. \n3. Add shrimp and mushrooms, and cook until shrimp are pink and mushrooms are tender. \n4. Stir in fish sauce, lime juice, and sugar. \n5. Garnish with cilantro and serve hot.",
@@ -38,8 +38,47 @@
     ]
   },
   {
-    "id": "dfgdx4564562342gfg",
+    "id": "dfgdx2187843223fg",
     "chef_id": "2",
+    "recipe_name": "Tom Yum Soup",
+    "preparation": "1. In a pot, bring chicken broth to a boil. \n2. Add lemongrass, kaffir lime leaves, galangal, and chili. Simmer for 5 minutes. \n3. Add shrimp and mushrooms, and cook until shrimp are pink and mushrooms are tender. \n4. Stir in fish sauce, lime juice, and sugar. \n5. Garnish with cilantro and serve hot.",
+    "ingredients": [
+      "4 cups chicken broth",
+      "2 stalks lemongrass, bruised and chopped",
+      "4 kaffir lime leaves",
+      "2-inch piece of galangal, sliced",
+      "2-3 Thai chili peppers, sliced",
+      "1/2 lb shrimp, peeled and deveined",
+      "4 oz mushrooms, sliced",
+      "2 tbsp fish sauce",
+      "2 tbsp lime juice",
+      "1 tsp sugar",
+      "Fresh cilantro, for garnish"
+    ]
+  }
+  ,
+  {
+    "id": "453211fghf54g4hd5sfg41",
+    "chef_id": "3",
+    "recipe_name": "Tom Yum Soup",
+    "preparation": "1. In a pot, bring chicken broth to a boil. \n2. Add lemongrass, kaffir lime leaves, galangal, and chili. Simmer for 5 minutes. \n3. Add shrimp and mushrooms, and cook until shrimp are pink and mushrooms are tender. \n4. Stir in fish sauce, lime juice, and sugar. \n5. Garnish with cilantro and serve hot.",
+    "ingredients": [
+      "4 cups chicken broth",
+      "2 stalks lemongrass, bruised and chopped",
+      "4 kaffir lime leaves",
+      "2-inch piece of galangal, sliced",
+      "2-3 Thai chili peppers, sliced",
+      "1/2 lb shrimp, peeled and deveined",
+      "4 oz mushrooms, sliced",
+      "2 tbsp fish sauce",
+      "2 tbsp lime juice",
+      "1 tsp sugar",
+      "Fresh cilantro, for garnish"
+    ]
+  },
+  {
+    "id": "asd7w8e4rwe2r132waetr1dx1zf2",
+    "chef_id": "4",
     "recipe_name": "Tom Yum Soup",
     "preparation": "1. In a pot, bring chicken broth to a boil. \n2. Add lemongrass, kaffir lime leaves, galangal, and chili. Simmer for 5 minutes. \n3. Add shrimp and mushrooms, and cook until shrimp are pink and mushrooms are tender. \n4. Stir in fish sauce, lime juice, and sugar. \n5. Garnish with cilantro and serve hot.",
     "ingredients": [
