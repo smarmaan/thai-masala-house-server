@@ -6,7 +6,7 @@ const cors = require("cors");
 
 const port = process.env.PORT || 5000;
 
-const chefDetails = require("./data/randomChef.json");
+const chefDetails = require("./data/chefDetails.json");
 
 const recipes = require("./data/randomRecipes.json");
 
