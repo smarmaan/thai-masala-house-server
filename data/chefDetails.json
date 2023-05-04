@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "name": "David Thompson",
+    "picture": "https://i.ibb.co/W6dZ1N7/David-Thompson.jpg",
+    "yearsOfExperience": 30,
+    "numberOfRecipes": 150,
+    "likes": 12000,
+    "ratings": 4.8,
+    "description": "David Thompson is an Australian chef and author known for his expertise in Thai cuisine. He has received numerous awards for his culinary achievements, including a Michelin star for his London restaurant, Nahm. Thompson has also written several books on Thai cooking, including 'Thai Food' and 'Thai Street Food'."
+  },
+  {
+    "id": "2",
+    "name": "Bo Songvisava",
+    "picture": "https://i.ibb.co/Ykr2kPN/Bo-Songvisava.jpg",
+    "yearsOfExperience": 20,
+    "numberOfRecipes": 100,
+    "likes": 10000,
+    "ratings": 4.7,
+    "description": "Bo Songvisava is a Thai chef and restaurateur known for her focus on sustainable and ethical cooking. She and her husband own the Michelin-starred restaurant Bo.lan in Bangkok, which serves traditional Thai dishes made with locally-sourced, organic ingredients."
+  },
+  {
+    "id": "3",
+    "name": "Ian Kittichai",
+    "picture": "https://i.ibb.co/zSxdSSJ/Ian-Kittichai.jpg",
+    "yearsOfExperience": 25,
+    "numberOfRecipes": 120,
+    "likes": 9500,
+    "ratings": 4.5,
+    "description": "Ian Kittichai is a Thai chef and restaurateur who has worked in some of the world's top kitchens, including Le Cirque in New York and The Oriental in Bangkok. He is the owner of several restaurants in Bangkok, including Issaya Siamese Club and Kittichai."
+  },
+  {
+    "id": "4",
+    "name": "Nooror Somany-Steppe",
+    "picture": "https://i.ibb.co/5M2M3RF/Nooror-Blue-Elephant.jpg",
+    "yearsOfExperience": 30,
+    "numberOfRecipes": 150,
+    "likes": 8500,
+    "ratings": 4.3,
+    "description": "Nooror Somany-Steppe is a Thai chef and restaurateur known for her modern take on traditional Thai cuisine. She is the owner of several restaurants in Bangkok, including Blue Elephant and N’Erawan. Somany-Steppe has also authored several cookbooks on Thai cuisine and has received numerous awards for her culinary achievements."
+  },
+  {
+    "id": "5",
+    "name": "Bee Satongun",
+    "picture": "https://i.ibb.co/PhSdhcJ/Bee-Satongun.jpg",
+    "yearsOfExperience": 15,
+    "numberOfRecipes": 70,
+    "likes": 8000,
+    "ratings": 4.2,
+    "description": "Bee Satongun is a Thai chef and restaurateur who, along with her husband, owns the Michelin-starred restaurant Paste Bangkok. She is known for her innovative approach to traditional Thai dishes, incorporating new ingredients and techniques while still honoring the classic flavors of Thai cuisine."
+  },
+  {
+    "id": "6",
+    "name": "Thitid Tassanakajohn",
+    "picture": "https://i.ibb.co/XbVJKnV/Thitid-Tassanakajohn.jpg",
+    "yearsOfExperience": 10,
+    "numberOfRecipes": 50,
+    "likes": 7500,
+    "ratings": 4.1,
+    "description": "Thitid Tassanakajohn, also known as 'Chef Ton', is a Thai chef and restaurateur known for his modern, creative take on Thai cuisine. He is the owner of several restaurants in Bangkok, including Le Du and Baan. Tassanakajohn has received numerous awards for his culinary achievements, including being named Asia's Best Chef in 2021."
+  }
+]
