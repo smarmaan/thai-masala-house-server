@@ -3,32 +3,54 @@
     "id": "1",
     "name": "David Thompson",
     "picture": "https://www.earnmydegree.com/sites/all/files/public/images/shutterstock_187759205.jpg",
-    "yearsOfExperience": 30,
+    "yearsOfExperience": 10,
     "numberOfRecipes": 150,
-    "likes": 12000
+    "likes": 12000,
+    "ratings": 4.5
   },
   {
     "id": "2",
-    "name": "Duangporn Songvisava and Dylan Jones",
+    "name": "Duangporn ",
     "picture": "https://www.earnmydegree.com/sites/all/files/public/images/shutterstock_187759205.jpg",
     "yearsOfExperience": 15,
     "numberOfRecipes": 80,
-    "likes": 8000
+    "likes": 8000,
+    "ratings": 4.2
   },
   {
     "id": "3",
-    "name": "Duangporn Songvisava and Dylan Jones",
+    "name": "abchd",
     "picture": "https://www.earnmydegree.com/sites/all/files/public/images/shutterstock_187759205.jpg",
-    "yearsOfExperience": 15,
-    "numberOfRecipes": 80,
-    "likes": 8000
+    "yearsOfExperience": 5,
+    "numberOfRecipes": 70,
+    "likes": 7000,
+    "ratings": 4.8
   },
   {
     "id": "4",
-    "name": "Duangporn Songvisava and Dylan Jones",
+    "name": "ghdgfjhg",
     "picture": "https://www.earnmydegree.com/sites/all/files/public/images/shutterstock_187759205.jpg",
-    "yearsOfExperience": 15,
-    "numberOfRecipes": 80,
-    "likes": 8000
+    "yearsOfExperience": 7,
+    "numberOfRecipes": 60,
+    "likes": 6000,
+    "ratings": 5
+  },
+  {
+    "id": "5",
+    "name": "4163464",
+    "picture": "https://www.earnmydegree.com/sites/all/files/public/images/shutterstock_187759205.jpg",
+    "yearsOfExperience": 12,
+    "numberOfRecipes": 63,
+    "likes": 8500,
+    "ratings": 5
+  },
+  {
+    "id": "6",
+    "name": "412gbsdg64",
+    "picture": "https://www.earnmydegree.com/sites/all/files/public/images/shutterstock_187759205.jpg",
+    "yearsOfExperience": 3,
+    "numberOfRecipes": 50,
+    "likes": 6500,
+    "ratings": 4.2
   }
 ]
